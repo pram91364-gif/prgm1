@@ -1,8 +1,9 @@
+simple style.css:
 body {
-    font-family: arial, sans-serif;
-    background-color: 3f4f4f4;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
     text-align: center;
 }
-header img{
-    width:100px;
+header img {
+    width: 100px;
 }
